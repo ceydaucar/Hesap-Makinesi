@@ -1,5 +1,5 @@
 # Hesap Makinesi
-Patika.dev > Java101 > Pratik1 - Hesap Makinesi
+Patika.dev > Java101 > Koşullu İfadeler ve Kod Blokları > Pratik1 - Hesap Makinesi
 
 ## Videodaki hesap makinesini switch-case kullanarak yapınız.
 
